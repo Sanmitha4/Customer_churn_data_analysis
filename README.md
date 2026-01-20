@@ -1,4 +1,3 @@
-# Customer_churn_data_analysis
 
 # Customer Churn Analysis Project
 
